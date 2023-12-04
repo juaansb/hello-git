@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1773146d-f786-4aa7-871e-facbf0b3a1d2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/hellogit.py" beforeDir="false" afterPath="$PROJECT_DIR$/hellogit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/login.py" afterDir="false" />
-    </list>
+    <list default="true" id="1773146d-f786-4aa7-871e-facbf0b3a1d2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +52,7 @@
       <updated>1701420790487</updated>
       <workItem from="1701420791540" duration="7432000" />
       <workItem from="1701623334575" duration="8000" />
-      <workItem from="1701675544141" duration="895000" />
+      <workItem from="1701675544141" duration="1500000" />
     </task>
     <servers />
   </component>
